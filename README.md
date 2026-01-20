@@ -51,6 +51,6 @@ Repositorio con **dos notebooks** y un **informe** para un análisis de datos ut
 
 ### Colaboradores
 
-Mario Martinez Lozano
-Vittorio Perillo
-Jose Alejandro Viveros Rotonda
+- Mario Martinez Lozano
+- Vittorio Perillo
+- Jose Alejandro Viveros Rotonda
