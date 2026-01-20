@@ -48,3 +48,9 @@ Repositorio con **dos notebooks** y un **informe** para un análisis de datos ut
 - Uso de **dendrogramas** para justificar cortes y detectar efectos de outliers. :contentReference[oaicite:5]{index=5}
 
 ---
+
+### Colaboradores
+
+Mario Martinez Lozano
+Vittorio Perillo
+Jose Alejandro Viveros Rotonda
